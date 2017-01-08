@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<link rel="self" href="http://test.pratiksheth.com/" />
+	<id>http://test.pratiksheth.com/</id>
+	<title>Pratik Sheth</title>
+	<rights>2017</rights>
+	<updated>2017-01-08T09:26:13Z</updated>
+	<subtitle>Digital world of Pratik Sheth</subtitle>
+	<entry>
+		<link href="http://test.pratiksheth.com/posts/first-post" />
+		<id>http://test.pratiksheth.com/posts/first-post</id>
+		<title>First Post</title>
+		<updated>2017-01-08T00:00:00Z</updated>
+		<content>&lt;p&gt;&lt;/p&gt;&lt;h3&gt;New year, new resolution!&lt;/h3&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;
+As my new resolution, I decided to fulfill my long pending wish: To write a blog.
+&lt;/p&gt;
+&lt;p&gt;
+After looking at various options to publish my blog, I decided to go for Static website.&lt;br&gt;
+After looking at various static website generator, I decided to go for &lt;a href="Wyam.io"&gt;Wyam.io&lt;/a&gt;.&lt;br&gt;
+After looking at various options to host my new website, I decided to go for github hosting.
+&lt;/p&gt;
+&lt;p&gt;
+    I will provide my reasoning behind selecting Static website and especially Wyam in my future blog post.
+    As of now, I am satisfied with Wyam.io and minimal setup it requires to publish your first post.
+&lt;/p&gt;
+&lt;p&gt;
+    Let's hope that I am able to continue updating this blog with new and innovative contents.
+&lt;/p&gt;</content>
+		<summary>My entry in to the world of blogs in new year 2017.</summary>
+	</entry>
+</feed>
